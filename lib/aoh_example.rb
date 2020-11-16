@@ -18,8 +18,12 @@ def literal_aoh
   # held in the constants
   new_aoh=[
     {:name => "Don Gately", :occupation => "Live-in Staff"},
-    {:name => "",
-    :occupation =>"" },
+    {:name => "Joelle van Dyne",
+    :occupation =>"Radio" },
+    {:name => "Kate Gompert",
+    :occupation =>"None" },
+    {:name => "Bruce Green",
+    :occupation =>"Fan of Mildred" }
     ]
   
 end
