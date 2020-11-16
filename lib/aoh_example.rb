@@ -43,7 +43,7 @@ def aoh_lookup(aoh, row, key)
     :occupation =>"Fan of Mildred" }
     ]
     
-    new_aoh[0][3][:name]
+    new_aoh[0]{3}[:name]
   
 end
 
