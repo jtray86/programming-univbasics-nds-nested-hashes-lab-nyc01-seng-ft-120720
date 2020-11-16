@@ -19,7 +19,7 @@ def literal_aoh
   new_aoh=[
     {:name => "Don Gately", :occupation => "Live-in Staff"},
     {:name => "Joelle van Dyne",
-    :occupation =>"Radio" },
+    :occupation =>"Radio Personality" },
     {:name => "Kate Gompert",
     :occupation =>"None" },
     {:name => "Bruce Green",
